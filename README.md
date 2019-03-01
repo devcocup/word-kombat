@@ -1,6 +1,6 @@
 # Word Kombat
 
-![word-kombat](https://github.com/Saka7/word-kombat/blob/master/front/src/assets/images/icons/icon-152x152.png)
+![word-kombat](https://github.com/typescript59/word-kombat/blob/master/front/src/assets/images/icons/icon-152x152.png)
 
 Platform for English words learning.
 
